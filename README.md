@@ -49,8 +49,19 @@ build full-stack solutions by selecting tech stacks freely, without limiting mys
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 클라우드 & 인프라 | Cloud & Infrastructure
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+
 ### 인증 | Authentication
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### API & 외부 서비스 | API & External Services
+![Google Ads API](https://img.shields.io/badge/Google_Ads_API-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Kakao API](https://img.shields.io/badge/Kakao_API-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)
+![Naver API](https://img.shields.io/badge/Naver_API-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### AI & LLM | AI & LLM
 ![Claude](https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white)
