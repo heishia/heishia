@@ -6,7 +6,7 @@
 김뽑희로 활동중인 진푸른입니다**  
 
 저는 바이브코딩으로 코딩을 시작한 비전공자 개발자입니다.
-**`폭넓은 기술적 경험`**을 지향하며 오케스트레이터의 역할을 하고 있습니다.
+<mark>**폭넓은 기술적 경험**</mark>을 지향하며 오케스트레이터의 역할을 하고 있습니다.
 좁은 언어, 생태계에 국한되지 않고 기술스택을 선정하여 풀스택 아웃풋들을 만들고 있습니다.  
 a non-CS developer who started my coding journey with Vibe Coding.
 pursue broad technical experience and work as a technology orchestrator.
