@@ -45,9 +45,10 @@ build full-stack solutions by selecting tech stacks freely, without limiting mys
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-2C5F8D?style=for-the-badge&logo=uvicorn&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 데이터베이스 & 스토리지 | Database & Storage
+### 데이터베이스 & ORM | Database & ORM
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 클라우드 & 인프라 | Cloud & Infrastructure
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
